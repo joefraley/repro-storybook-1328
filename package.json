@@ -3,7 +3,7 @@
     "storybook": "start-storybook -p 6006"
   },
   "devDependencies": {
-    "@storybook/react": "^3.2.3",
+    "@storybook/react": "3.2.8",
     "webpack": "3.5.6"
   },
   "dependencies": {
